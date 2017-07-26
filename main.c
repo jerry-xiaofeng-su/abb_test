@@ -33,6 +33,8 @@ int main(int argc, const char* argv[])
 	LogicSever_CreateMainThread();
 	LogicClient_CreateMainThread();
 //test1
+//test3
 	//test2
+
 	return 0;
 }
