@@ -32,5 +32,6 @@ int main(int argc, const char* argv[])
     OSA_DBG_MSG("logic to device starting ...");
 	LogicSever_CreateMainThread();
 	LogicClient_CreateMainThread();
+//test1
 	return 0;
 }
